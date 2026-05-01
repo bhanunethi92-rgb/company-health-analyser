@@ -1,0 +1,178 @@
+role,department,seniority,compound_score,sentiment
+Mortgage Loan Processor,Other,Mid-level,0.0,Neutral
+Executive Assistant,Other,Mid-level,0.0,Neutral
+Marketing Coordinator,Marketing,Mid-level,0.0,Neutral
+Processor,Other,Mid-level,0.0,Neutral
+Mortgage Loan Processor,Other,Mid-level,0.0,Neutral
+Underwriter,Other,Mid-level,0.0,Neutral
+Executive Administrative Assistant,Other,Mid-level,0.0,Neutral
+Senior Director Sourcing and Procurement Services,Other,Senior,0.0,Neutral
+Project Coordinator,Other,Mid-level,0.0,Neutral
+Python Developer,Engineering,Mid-level,0.0,Neutral
+Director of Procurement,Other,Management,0.0,Neutral
+Product Owner,Product,Mid-level,0.0,Neutral
+Python Developer,Engineering,Mid-level,0.0,Neutral
+Product Owner,Product,Mid-level,0.0,Neutral
+Product Owner,Product,Mid-level,0.0,Neutral
+Product Manager,Product,Management,0.0,Neutral
+Product Owner,Product,Mid-level,0.0,Neutral
+Senior Procurement Specialist,Other,Senior,0.0,Neutral
+Procurement Specialist,Other,Mid-level,0.0,Neutral
+Designer,Other,Mid-level,0.0,Neutral
+Senior Director - Human Resource Outsourcing,HR,Senior,0.0,Neutral
+Network Engineer,Engineering,Mid-level,0.0,Neutral
+Mortgage Underwriter,Other,Mid-level,0.0,Neutral
+"Client Partner, Healthcare",Other,Mid-level,0.0,Neutral
+Senior Director - New Business Sales (Financial Services),Sales,Senior,0.0,Neutral
+Senior Procurement Consultant,Other,Senior,0.0,Neutral
+Data Scientist,Data & Analytics,Mid-level,0.0,Neutral
+Senior Business Development Director – Oil & Gas,Sales,Senior,0.0,Neutral
+Payroll Associate,Other,Junior,0.0,Neutral
+SQL Database Administrator,Data & Analytics,Mid-level,0.0,Neutral
+Operations Manager,Other,Management,0.0,Neutral
+Senior Consultant- Learning and Development,Other,Senior,0.0,Neutral
+Windows Administrator,Other,Mid-level,0.0,Neutral
+Senior Business Development Director – Oil & Gas,Sales,Senior,0.0,Neutral
+Data Scientist,Data & Analytics,Mid-level,0.0,Neutral
+Data Scientist,Data & Analytics,Mid-level,0.0,Neutral
+Associate Manager - Client Services - Manufacturing,Other,Management,0.0,Neutral
+Project Manager,Other,Management,0.0,Neutral
+Data Scientist,Data & Analytics,Mid-level,0.0,Neutral
+Data Scientist,Data & Analytics,Mid-level,0.0,Neutral
+Java Developer,Engineering,Mid-level,0.0,Neutral
+Consultant,Other,Mid-level,0.0,Neutral
+Desktop Technician,Other,Mid-level,0.0,Neutral
+Mortgage Business Analyst,Data & Analytics,Mid-level,0.0,Neutral
+SQL Database Administrator,Data & Analytics,Mid-level,0.0,Neutral
+Associate Client Manager,Other,Management,0.0,Neutral
+HR Business Development Director,HR,Management,0.0,Neutral
+Business Analyst - Capitals Market,Data & Analytics,Mid-level,0.0,Neutral
+Business Development Executive,Sales,Mid-level,0.0,Neutral
+Project Manager,Other,Management,0.0,Neutral
+Java Full‑Stack Developer,Engineering,Mid-level,0.0,Neutral
+Manufacturing Engineer,Engineering,Mid-level,0.0,Neutral
+Senior Associate Lead - Talent Acquisition,HR,Senior,0.4215,Positive
+Lead - BPHR,HR,Senior,0.0,Neutral
+Business Development Executive,Sales,Mid-level,0.0,Neutral
+Appraisal Analyst-Process Specialist,Data & Analytics,Mid-level,0.0,Neutral
+Java Full‑Stack Developer,Engineering,Mid-level,0.0,Neutral
+Customer Service Representative,Other,Mid-level,0.0,Neutral
+"Senior Director - Sales in Manufacturing, Automobile and Aerospace",Data & Analytics,Senior,0.0,Neutral
+Mortgage Loan Processor,Other,Mid-level,0.0,Neutral
+Executive Assistant,Other,Mid-level,0.0,Neutral
+Marketing Coordinator,Marketing,Mid-level,0.0,Neutral
+Processor,Other,Mid-level,0.0,Neutral
+Mortgage Loan Processor,Other,Mid-level,0.0,Neutral
+Underwriter,Other,Mid-level,0.0,Neutral
+Executive Administrative Assistant,Other,Mid-level,0.0,Neutral
+Senior Director Sourcing and Procurement Services,Other,Senior,0.0,Neutral
+Project Coordinator,Other,Mid-level,0.0,Neutral
+Python Developer,Engineering,Mid-level,0.0,Neutral
+Director of Procurement,Other,Management,0.0,Neutral
+Product Owner,Product,Mid-level,0.0,Neutral
+Python Developer,Engineering,Mid-level,0.0,Neutral
+Product Owner,Product,Mid-level,0.0,Neutral
+Product Owner,Product,Mid-level,0.0,Neutral
+Product Manager,Product,Management,0.0,Neutral
+Product Owner,Product,Mid-level,0.0,Neutral
+Senior Procurement Specialist,Other,Senior,0.0,Neutral
+Procurement Specialist,Other,Mid-level,0.0,Neutral
+Designer,Other,Mid-level,0.0,Neutral
+Senior Director - Human Resource Outsourcing,HR,Senior,0.0,Neutral
+Network Engineer,Engineering,Mid-level,0.0,Neutral
+Mortgage Underwriter,Other,Mid-level,0.0,Neutral
+"Client Partner, Healthcare",Other,Mid-level,0.0,Neutral
+Senior Director - New Business Sales (Financial Services),Sales,Senior,0.0,Neutral
+Senior Procurement Consultant,Other,Senior,0.0,Neutral
+Data Scientist,Data & Analytics,Mid-level,0.0,Neutral
+Senior Business Development Director – Oil & Gas,Sales,Senior,0.0,Neutral
+Payroll Associate,Other,Junior,0.0,Neutral
+SQL Database Administrator,Data & Analytics,Mid-level,0.0,Neutral
+Operations Manager,Other,Management,0.0,Neutral
+Senior Consultant- Learning and Development,Other,Senior,0.0,Neutral
+Windows Administrator,Other,Mid-level,0.0,Neutral
+Senior Business Development Director – Oil & Gas,Sales,Senior,0.0,Neutral
+Data Scientist,Data & Analytics,Mid-level,0.0,Neutral
+Data Scientist,Data & Analytics,Mid-level,0.0,Neutral
+Associate Manager - Client Services - Manufacturing,Other,Management,0.0,Neutral
+Project Manager,Other,Management,0.0,Neutral
+Data Scientist,Data & Analytics,Mid-level,0.0,Neutral
+Data Scientist,Data & Analytics,Mid-level,0.0,Neutral
+Java Developer,Engineering,Mid-level,0.0,Neutral
+Consultant,Other,Mid-level,0.0,Neutral
+Desktop Technician,Other,Mid-level,0.0,Neutral
+Mortgage Business Analyst,Data & Analytics,Mid-level,0.0,Neutral
+SQL Database Administrator,Data & Analytics,Mid-level,0.0,Neutral
+Associate Client Manager,Other,Management,0.0,Neutral
+HR Business Development Director,HR,Management,0.0,Neutral
+Business Analyst - Capitals Market,Data & Analytics,Mid-level,0.0,Neutral
+Business Development Executive,Sales,Mid-level,0.0,Neutral
+Project Manager,Other,Management,0.0,Neutral
+Java Full‑Stack Developer,Engineering,Mid-level,0.0,Neutral
+Manufacturing Engineer,Engineering,Mid-level,0.0,Neutral
+Senior Associate Lead - Talent Acquisition,HR,Senior,0.4215,Positive
+Lead - BPHR,HR,Senior,0.0,Neutral
+Business Development Executive,Sales,Mid-level,0.0,Neutral
+Appraisal Analyst-Process Specialist,Data & Analytics,Mid-level,0.0,Neutral
+Java Full‑Stack Developer,Engineering,Mid-level,0.0,Neutral
+"Senior Director - Sales in Manufacturing, Automobile and Aerospace",Data & Analytics,Senior,0.0,Neutral
+Business Development Director – Telecom,Sales,Management,0.0,Neutral
+Mortgage Loan Processor,Other,Mid-level,0.0,Neutral
+Executive Assistant,Other,Mid-level,0.0,Neutral
+Marketing Coordinator,Marketing,Mid-level,0.0,Neutral
+Processor,Other,Mid-level,0.0,Neutral
+Mortgage Loan Processor,Other,Mid-level,0.0,Neutral
+Underwriter,Other,Mid-level,0.0,Neutral
+Executive Administrative Assistant,Other,Mid-level,0.0,Neutral
+Senior Director Sourcing and Procurement Services,Other,Senior,0.0,Neutral
+Project Coordinator,Other,Mid-level,0.0,Neutral
+Python Developer,Engineering,Mid-level,0.0,Neutral
+Director of Procurement,Other,Management,0.0,Neutral
+Product Owner,Product,Mid-level,0.0,Neutral
+Python Developer,Engineering,Mid-level,0.0,Neutral
+Product Owner,Product,Mid-level,0.0,Neutral
+Product Owner,Product,Mid-level,0.0,Neutral
+Product Manager,Product,Management,0.0,Neutral
+Product Owner,Product,Mid-level,0.0,Neutral
+Senior Procurement Specialist,Other,Senior,0.0,Neutral
+Procurement Specialist,Other,Mid-level,0.0,Neutral
+Designer,Other,Mid-level,0.0,Neutral
+Senior Director - Human Resource Outsourcing,HR,Senior,0.0,Neutral
+Network Engineer,Engineering,Mid-level,0.0,Neutral
+Mortgage Underwriter,Other,Mid-level,0.0,Neutral
+"Client Partner, Healthcare",Other,Mid-level,0.0,Neutral
+Senior Director - New Business Sales (Financial Services),Sales,Senior,0.0,Neutral
+Senior Procurement Consultant,Other,Senior,0.0,Neutral
+Data Scientist,Data & Analytics,Mid-level,0.0,Neutral
+Senior Business Development Director – Oil & Gas,Sales,Senior,0.0,Neutral
+Payroll Associate,Other,Junior,0.0,Neutral
+SQL Database Administrator,Data & Analytics,Mid-level,0.0,Neutral
+Operations Manager,Other,Management,0.0,Neutral
+Senior Consultant- Learning and Development,Other,Senior,0.0,Neutral
+Windows Administrator,Other,Mid-level,0.0,Neutral
+Senior Business Development Director – Oil & Gas,Sales,Senior,0.0,Neutral
+Data Scientist,Data & Analytics,Mid-level,0.0,Neutral
+Data Scientist,Data & Analytics,Mid-level,0.0,Neutral
+Associate Manager - Client Services - Manufacturing,Other,Management,0.0,Neutral
+Project Manager,Other,Management,0.0,Neutral
+Data Scientist,Data & Analytics,Mid-level,0.0,Neutral
+Data Scientist,Data & Analytics,Mid-level,0.0,Neutral
+Java Developer,Engineering,Mid-level,0.0,Neutral
+Consultant,Other,Mid-level,0.0,Neutral
+Desktop Technician,Other,Mid-level,0.0,Neutral
+Mortgage Business Analyst,Data & Analytics,Mid-level,0.0,Neutral
+SQL Database Administrator,Data & Analytics,Mid-level,0.0,Neutral
+Associate Client Manager,Other,Management,0.0,Neutral
+HR Business Development Director,HR,Management,0.0,Neutral
+Business Analyst - Capitals Market,Data & Analytics,Mid-level,0.0,Neutral
+Business Development Executive,Sales,Mid-level,0.0,Neutral
+Project Manager,Other,Management,0.0,Neutral
+Java Full‑Stack Developer,Engineering,Mid-level,0.0,Neutral
+Manufacturing Engineer,Engineering,Mid-level,0.0,Neutral
+Senior Associate Lead - Talent Acquisition,HR,Senior,0.4215,Positive
+Lead - BPHR,HR,Senior,0.0,Neutral
+Business Development Executive,Sales,Mid-level,0.0,Neutral
+Appraisal Analyst-Process Specialist,Data & Analytics,Mid-level,0.0,Neutral
+Java Full‑Stack Developer,Engineering,Mid-level,0.0,Neutral
+"Senior Director - Sales in Manufacturing, Automobile and Aerospace",Data & Analytics,Senior,0.0,Neutral
+Business Development Director – Telecom,Sales,Management,0.0,Neutral
