@@ -1,1 +1,6 @@
-id,company,date,rating,department,employment_type,pros,cons,work_life,skill_dev,salary,job_security,management,source,scraped_at
+company,date,rating,department,pros,cons,work_life,skill_dev,salary,job_security,management
+Infosys,2026-01-15,4.0,Data & Analytics,Good learning,Work life balance,3.5,4.0,3.5,4.0,3.5
+Infosys,2026-02-10,3.5,Software Engineering,Job security,Salary hikes slow,3.0,3.5,3.0,4.5,3.0
+Infosys,2026-03-05,4.5,Cloud & Infrastructure,Excellent training,Project allocation slow,4.0,4.5,4.0,4.5,4.0
+Infosys,2026-04-01,3.0,Finance,Brand name good,Poor salary growth,2.5,2.5,2.0,3.5,2.5
+Infosys,2026-04-20,4.0,Human Resources,Stable company,Growth can be slow,4.0,3.0,3.0,4.0,3.5
